@@ -5,7 +5,9 @@
 - 👀 I’m a senior customer solutions engineer, an inveterate geek, and always interested in finding better ways to help people.
 - 👩🏻‍🎓 I'm a full-time student at [Western Governors University](https://wgu.edu/). My major is Information Technology/Software Development.
 - 🌱 I’m learning to code! Python, JavaScript, and a little R. I've used HTML and CSS for years, but I've been brushing up on those, as well.
-- 💞️ I’m looking to collaborate on interesting projects. I have experience in technical writing and QA, so while I'm not much of a coder yet I do have useful skills.
+- ⌨️ I’m looking to collaborate on interesting projects. I have experience in technical writing and QA, so while I'm not much of a coder yet I do have useful skills.
+- 💜 My personal interests include 🎶 making music (I'm a singer), 📚 reading (mostly SF&F and non-fiction), 🪡 needlework (blackwork lately, but also cross-stitch and knitting 🧶), 🎲 playing tabletop RPGs (particularly story games), and 🫶 volunteering (mostly digital lately, but we also foster 🐈 kittens that are too young for adoption).
+- 🏡 I began working from home in 1990.
 - 📫 How to reach me: email me! technomom at gmail works.
 - :grin: Pronouns: she/her
 - :zap: Fun fact: I was once featured as a guest on Oprah to talk about internet safety and cyberstalking
